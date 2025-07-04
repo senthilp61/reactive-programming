@@ -1,4 +1,4 @@
-package com.poc.reactive_programming;
+package com.poc.reactiveprogramming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
